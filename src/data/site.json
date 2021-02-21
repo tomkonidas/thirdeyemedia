@@ -1,8 +1,6 @@
 {
   "name": "Third Eye Media",
   "url": "https://thirdeyemedia.ca",
-  "titleSeperator": "::",
-  "lang": "en",
   "color": {
     "base": "#5B2BA1",
     "light": "#6F46AC",
