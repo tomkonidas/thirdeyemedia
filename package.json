@@ -1,0 +1,32 @@
+{
+  "name": "thirdeyemedia",
+  "version": "1.0.0",
+  "description": "Official website for Third Eye Media",
+  "main": ".eleventy.js",
+  "engines": {
+    "node": "15.8.x",
+    "npm": "7.5.x"
+  },
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomkonidas/thirdeyemedia.git"
+  },
+  "keywords": [
+    "11ty", 
+    "tailwindcss"
+  ],
+  "author": "Tom Konidas",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/tomkonidas/thirdeyemedia/issues"
+  },
+  "homepage": "https://thirdeyemedia.ca",
+  "devDependencies": {
+    "@11ty/eleventy": "0.11.1"
+  }
+}
