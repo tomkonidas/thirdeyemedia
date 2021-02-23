@@ -2,8 +2,10 @@
   "name": "Third Eye Media",
   "url": "https://thirdeyemedia.ca",
   "color": {
-    "base": "#5B2BA1",
-    "light": "#6F46AC",
-    "dark": "#32096D"
+    "primary": "#5B2BA1",
+    "primary-focus": "#32096D",
+    "secondary": "#5B2BA1",
+    "secondary-focus": "#32096D",
+    "utility": ""
   }
 }
