@@ -16,8 +16,7 @@
     "url": "git+https://github.com/tomkonidas/thirdeyemedia.git"
   },
   "keywords": [
-    "11ty",
-    "tailwindcss"
+    "11ty"
   ],
   "author": "Tom Konidas",
   "license": "MIT",
